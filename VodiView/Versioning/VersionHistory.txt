@@ -1,0 +1,16 @@
+# 1.0.3
+
+* Changed .net framework to 3.5.
+* Made up solution to be put to git
+
+# 1.0.2
+
+* Internal refactorings.
+
+# 1.0.1
+
+* Internal refactorings.
+
+# 1.0.0
+
+* First Release.
