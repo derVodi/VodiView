@@ -15,4 +15,3 @@ Alternatively, put the EXE to e.g. "C:\Progs" and use the windows function "Open
 * Press Esc to exit
 * Press F1 to get a list of keyboard shortcuts
 * Move the mouse to the upper right corner to make controls visible when in full screen mode
-
