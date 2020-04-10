@@ -4,6 +4,10 @@
 
 A minimalistic (< 50 kB!) full screen image viewer (without any visible controls) that comes as a single executable ("portable").
 
+## Download
+
+Go here https://github.com/derVodi/VodiView/releases and download the ZIP file under "Assets".
+
 ## Usage
 
 Put the EXE into the directory where the images are located and run it. It'll show the first image. Use mouse wheel or PageUp/PageDown to navigate through the images.
